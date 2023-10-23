@@ -16,4 +16,4 @@ jobs:
     - name: Deploy code to main Deployment
       uses: astronomer/deploy-action@v0.2
       with:
-        deployment-id: clkr7oka21222177bz2w97l04crt
+        deployment-id: clo2pskzt826153yh1dol5epxgd
